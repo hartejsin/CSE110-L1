@@ -1,9 +1,10 @@
 # Hello, welcome to my page!
+![Welcome!](welcome.jpeg)
 ## I'm Hartej, a ~~2nd~~ 3rd year Mathematics-Computer Science Student @ UCSD 
 ### I enjoy surfing, reading, and the outdoors. 
 
 
-[Click here to see me!](DSC_317.jpg)
+[Click here to see me!](DSC_0317.jpg)
 [Click here to see the sunset in Balboa park tonight!](image000000.jpg)
 
 ## About Me
@@ -30,7 +31,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hartej-si
 - **Time Series Forecasting**
 
 ## Task List
-- [] Get Internship
+- [ ] Get Internship
 - [ ] Graduate from UCSD
 - [ ] Surf good
 
