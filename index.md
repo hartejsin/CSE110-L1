@@ -35,5 +35,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hartej-si
 - [ ] Graduate from UCSD
 - [ ] Surf good
 
-[Jump to About Me](#about-me)
-[Jump to Experience](#experience)
+
